@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /mentor/
+Disallow: /api/
+
+Sitemap: https://internova.in/sitemap.xml
